@@ -18,10 +18,9 @@ A line break follows<br/>a line break precedes
 A horizontal rule follows<hr/>
 
 Paragraphs are separated
-
-by a blank line
 <p/>
-or a `<p/>` tag
+by a blank line
+
 
 a line break in a long line <br/> goes here
 
