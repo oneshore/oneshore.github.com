@@ -24,3 +24,14 @@ input
                               
 </form>
 
+emphasis
+--------
+*italic*
+**bold**
+***bold and italic***
+
+<em>emphasis</em>
+<strong>strong</strong>
+<strong><em>strong emphasis</em/</strong>
+
+
