@@ -10,9 +10,20 @@ this is also a subheading
 # heading again
 ## subheading again
 
+breaks
+------
+
 A line break follows<br/>a line break precedes
 
 A horizontal rule follows<hr/>
+
+Paragraphs are separated
+
+by a blank line
+<p/>
+or a `<p/>` tag
+
+a line break in a long line <br/> goes here
 
 form elements
 -------------
@@ -25,11 +36,15 @@ input
 emphasis
 --------
 *italic*
+
 **bold**
+
 ***bold and italic***
 
 <em>emphasis</em>
+
 <strong>strong</strong>
-<strong><em>strong emphasis</em/</strong>
+
+<strong><em>strong emphasis</em/></strong>
 
 
