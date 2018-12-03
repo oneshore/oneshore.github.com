@@ -43,7 +43,7 @@ input
 <input name="username" value="aaron"/>
 
 button
-<button class="button-save large">Big Fat Button</button>
+<button>Big Fat Button</button>
 
 
 emphasis
