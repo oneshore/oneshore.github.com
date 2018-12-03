@@ -58,3 +58,11 @@ emphasis
 <strong><em>strong emphasis</em/></strong>
 
 
+images
+------
+
+![one shore logo](https://www.one-shore.com/images/one-shore-logo.png)
+
+![relative path](../images/one-shore-logo.png)
+
+
