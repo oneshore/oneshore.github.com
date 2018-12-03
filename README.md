@@ -1,2 +1,2 @@
 # oneshore.github.com
-One Shore - Test Automation Solutions Website
+One Shore - Test Automation Solutions
