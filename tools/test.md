@@ -69,3 +69,10 @@ images
 ![relative path](../images/one-shore-logo.png)
 
 
+embed
+---
+
+
+embed code from a gist
+<% gist ebeb3a3ea6c590f711429517d15ee79e %>
+

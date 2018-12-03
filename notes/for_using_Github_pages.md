@@ -12,6 +12,9 @@ How do I...
 
 4. embedding components
 
+	> use an iframe? 
+
+	
 5. nav bar / dropdown
 
 6. common header / footer
