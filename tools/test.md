@@ -15,14 +15,25 @@ breaks
 
 A line break follows<br/>a line break precedes
 
-A horizontal rule follows<hr/>
 
 Paragraphs are separated
 <p/>
 by a blank line
 
 
-a line break in a long line <br/> goes here
+A horizontal rule follows
+<hr/>
+
+A horizontal rule follows
+
+---
+
+A horizontal rule follows
+
+===
+
+A horizontal rule follows
+***
 
 form elements
 -------------
