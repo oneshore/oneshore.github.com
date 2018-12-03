@@ -23,4 +23,7 @@ How do I...
 9. use javascript
 
 10. reference images stored on this page
+	-- relative path works
+
+	`![Alt Text](/path/to/image.jpg "Optional Title")`
 
