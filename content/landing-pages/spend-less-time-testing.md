@@ -1,4 +1,4 @@
-{header} ![One Shore logo](../.../images/one-shore-logo.png) 
+{header} ![One Shore logo](../../images/one-shore-logo.png) 
 
 --------------------------
 
